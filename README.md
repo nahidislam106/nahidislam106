@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahid Islam</h1>
-<h3 align="center">A passionate Android Application Developer and Competetive Programmer.</h3>
+<h3 align="center">A passionate Developer, Researcher and Competetive Programmer.</h3>
 
-- 🌱 I’m currently learning **Flutter, Competetive Programming**
+- 🌱 I’m currently learning **Flutter, React JS, Python, Machine Learning, Competetive Programming**
 
 - 📫 How to reach me **ni749954@gmail.com**
 
@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nahidislamecehstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahidislamecehstu" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/nahid.islam.2302106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nahid.islam.2302106" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/nahid_hstu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nahid_hstu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/nahid_ece_hstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nahid_ece_hstu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/nahid_hstu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nahid_thor" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/_nahid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nahid_ece_hstu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
